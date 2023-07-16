@@ -13,3 +13,10 @@ sudo update -y
 gcc -Wall -o exploit exploit.c -lmnl -lnftnl -lpthread
 
 ./exploit
+
+If only want to test it y upload it the compilated source for centos 
+and also for ubuntu(was compilated in a Ubuntu 22.02).
+
+Test it if centos with ./centos
+
+if Ubuntu with ./ubuntu 
